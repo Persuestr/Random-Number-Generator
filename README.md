@@ -7,7 +7,7 @@ It made for raffle that every month happens.
 - This program's language is Turkish.
 
 It basically generates a number between 2 numbers that is written .
-Also it saves the winners to desktop in txt file.
+Also it saves the winners (You should write them to empty space) to desktop in txt file.
 
 You can click the symbols and go to person's social media accounts.
 Left of the program is streamer's sponsorships.
