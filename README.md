@@ -1,5 +1,7 @@
-# Random-Number-Generator
-A RNG for twitch streamer Canko. Made for experience.
+# Random-Number-Generator 
+***Made for experience***
+
+A RNG for twitch streamer Canko. 
 It made for raffle that every month happens.
 
 - This program's language is Turkish.
