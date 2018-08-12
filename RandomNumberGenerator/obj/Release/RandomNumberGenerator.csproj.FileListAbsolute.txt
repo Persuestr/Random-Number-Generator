@@ -1,0 +1,13 @@
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\bin\Release\RandomNumberGenerator.exe.config
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\bin\Release\RandomNumberGenerator.exe
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\bin\Release\RandomNumberGenerator.pdb
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.Form1.resources
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.Properties.Resources.resources
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.csproj.GenerateResource.Cache
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.exe
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.pdb
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\bin\Release\RandomNumberGenerator.exe.manifest
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\bin\Release\RandomNumberGenerator.application
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.exe.manifest
+C:\Users\oguzh\Desktop\code\RNG\RandomNumberGenerator\RandomNumberGenerator\obj\Release\RandomNumberGenerator.application
