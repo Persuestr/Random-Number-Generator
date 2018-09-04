@@ -10,7 +10,7 @@ It basically generates a number between 2 numbers that is written .
 Also it saves the winners (You should write them to empty space) to desktop in txt file.
 
 You can click the symbols and go to person's social media accounts.
-Left of the program is streamer's sponsorships.
+Left side of the program is streamer's sponsorships.
 
 - Twitch Link of the streamer: https://www.twitch.tv/canko
 
